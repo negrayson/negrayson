@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @negrayson
-- 👀 I’m a bioinformatician at Oxford University working mainly on HIV.
+- 👋 Hi, I’m Nicholas Grayson, a bioinformatician at Oxford University working mainly on HIV.
 
 
 <!---
